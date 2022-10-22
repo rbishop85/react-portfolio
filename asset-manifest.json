@@ -1,19 +1,21 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.80f9bb23.css",
-    "main.js": "/react-portfolio/static/js/main.bac0f63b.js",
+    "main.css": "/react-portfolio/static/css/main.c37cc21a.css",
+    "main.js": "/react-portfolio/static/js/main.054ee207.js",
     "static/media/resume.pdf": "/react-portfolio/static/media/resume.e630e84621a39b5917a0.pdf",
     "static/media/whiskyjournal.jpg": "/react-portfolio/static/media/whiskyjournal.303a9d5640a48dc3b362.jpg",
     "static/media/me.jpg": "/react-portfolio/static/media/me.91aa5191451a6bd81581.jpg",
+    "static/media/weather.jpg": "/react-portfolio/static/media/weather.77c158841af01006cfad.jpg",
     "static/media/quoteme.jpg": "/react-portfolio/static/media/quoteme.7fd79b0e1f01bbc97d98.jpg",
     "static/media/techblog.jpg": "/react-portfolio/static/media/techblog.d6b66b4b08b4ceab00ea.jpg",
     "static/media/scheduler.jpg": "/react-portfolio/static/media/scheduler.3ed1d30c391c3f5209f7.jpg",
+    "static/media/notetaker.jpg": "/react-portfolio/static/media/notetaker.caee020d2d6392495d32.jpg",
     "index.html": "/react-portfolio/index.html",
-    "main.80f9bb23.css.map": "/react-portfolio/static/css/main.80f9bb23.css.map",
-    "main.bac0f63b.js.map": "/react-portfolio/static/js/main.bac0f63b.js.map"
+    "main.c37cc21a.css.map": "/react-portfolio/static/css/main.c37cc21a.css.map",
+    "main.054ee207.js.map": "/react-portfolio/static/js/main.054ee207.js.map"
   },
   "entrypoints": [
-    "static/css/main.80f9bb23.css",
-    "static/js/main.bac0f63b.js"
+    "static/css/main.c37cc21a.css",
+    "static/js/main.054ee207.js"
   ]
 }
