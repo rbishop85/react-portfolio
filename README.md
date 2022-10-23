@@ -30,7 +30,7 @@ This project is intended as a homework assignment for class.  Questions, comment
 
 > Video demoing portfolio page in action.
 
-./
+https://user-images.githubusercontent.com/103389448/197374981-a0e58628-572b-4b5d-bc36-060fd899565e.mp4
 
 ---
 
